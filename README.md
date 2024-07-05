@@ -20,7 +20,7 @@ by Gokiburian 2020.8.4
 **くれぐれも大切なファイルに使わないように**
 
 ## 免責
-Copyright (c) 2021 Gokiburian
+Copyright (c) 2020 Gokiburian
 
 ## 連絡先
 - **Discord**: gokigoukin5
